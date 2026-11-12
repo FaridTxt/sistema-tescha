@@ -1,0 +1,116 @@
+CALENDARIO TESCHA — CICLO ESCOLAR 2026-2027
+Fuente: CALENDARIO27(1).pdf
+
+OBJETIVO
+Este archivo convierte la información visual del calendario en texto estructurado
+para que OpenCode pueda consultarla desde la aplicación de planeaciones docentes.
+
+IMPORTANTE
+El calendario original es visual. Esta transcripción conserva las categorías de
+la leyenda y las fechas marcadas. Si una fecha no aparece aquí, no debe inventarse.
+El documento oficial puede estar sujeto a cambios según la Gaceta de Gobierno.
+
+LEYENDA
+- Inicio de semestre
+- Término de semestre
+- Suspensión de labores
+- Registro del nivel de desempeño
+- En el sistema
+- Periodo vacacional
+- Actividades académicas
+- Seguimiento departamental
+- Retroalimentación de 2da. oportunidad
+- Entrega de boleta semestral
+- Reinscripción estudiantes regulares
+- Reinscripción estudiantes irregulares
+- Captura de calificaciones en el sistema de control escolar
+- Inicia curso de verano
+- Fin de curso de verano
+- Publicación de cursos de verano
+- Curso de inducción y propedéutico
+- Cierre del sistema para informes finales
+- Comité académico (solicitudes estudiantiles)
+
+FECHAS PRINCIPALES
+Inicio de semestre:
+  2026-09-01
+  2027-03-01
+
+Término de semestre:
+  2027-01-29
+  2027-07-02
+
+Suspensión de labores:
+  2026-09-16
+  2026-11-02
+  2026-11-16
+  2026-12-25
+  2027-01-01
+  2027-02-01
+  2027-03-02
+  2027-03-15
+  2027-03-25
+  2027-03-26
+  2027-05-01
+  2027-05-05
+
+Seguimiento departamental:
+  2026-10-05 al 2026-10-09
+  2026-11-23 al 2026-11-27
+  2027-04-12 al 2027-04-16
+  2027-05-24 al 2027-05-28
+  2027-07-12 al 2027-07-16
+
+Actividades académicas:
+  2026-10-01 al 2026-10-02
+  2026-11-18 al 2026-11-20
+  2027-01-13 al 2027-01-15
+  2027-04-07 al 2027-04-09
+  2027-06-16 al 2027-06-18
+
+Retroalimentación de 2da. oportunidad:
+  2027-01-25 al 2027-01-27
+  2027-06-28 al 2027-06-30
+
+Entrega de boleta semestral:
+  2027-02-10 al 2027-02-12
+  2027-08-10 al 2027-08-12
+
+Reinscripción estudiantes regulares:
+  2027-02-15 al 2027-02-16
+  2027-08-15 al 2027-08-17
+
+Reinscripción estudiantes irregulares:
+  2027-02-17 al 2027-02-19
+  2027-08-18 al 2027-08-20
+
+Captura de calificaciones:
+  2027-01-28
+  2027-08-13
+
+En el sistema:
+  2027-01-04 al 2027-01-05
+  2027-03-22 al 2027-03-24
+  2027-07-19 al 2027-07-23
+  2027-07-26 al 2027-07-27
+
+Periodo vacacional:
+  2026-12-21 al 2026-12-31
+
+Curso de verano:
+  Inicio: 2027-07-05
+  Fin: 2027-08-30
+
+Curso de inducción y propedéutico:
+  2027-08-02 al 2027-08-06
+
+Comité académico (solicitudes estudiantiles):
+  2027-01-11 al 2027-01-22
+  2027-06-28 al 2027-07-09
+
+NOTA PARA OPENCODE
+Usa el archivo JSON como fuente de datos para la lógica de la aplicación.
+No modifiques las fechas por tu cuenta. Si necesitas una fecha que no esté
+registrada, indícalo y solicita confirmación. El calendario debe servir para
+validar periodos de planeación y advertir al docente cuando una fecha coincida
+con suspensión de labores, periodo vacacional u otra actividad institucional.

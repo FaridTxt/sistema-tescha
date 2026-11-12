@@ -1,0 +1,250 @@
+{
+  "institucion": "Tecnológico de Estudios Superiores de Chalco (TESCHA)",
+  "documento_fuente": "CALENDARIO27(1).pdf",
+  "ciclo_escolar": "2026-2027",
+  "periodo": "septiembre 2026 a agosto 2027",
+  "nota_importante": "Este archivo es una transcripción estructurada del calendario visual. El PDF original contiene principalmente una imagen. Las fechas marcadas se deben interpretar junto con la leyenda del calendario. No sustituir el documento oficial si existe una actualización posterior.",
+  "leyenda": {
+    "inicio_de_semestre": "Inicio de semestre",
+    "termino_de_semestre": "Término de semestre",
+    "suspension_de_labores": "Suspensión de labores",
+    "registro_nivel_desempeno": "Registro del nivel de desempeño",
+    "en_el_sistema": "En el sistema",
+    "periodo_vacacional": "Periodo vacacional",
+    "actividades_academicas": "Actividades académicas",
+    "seguimiento_departamental": "Seguimiento departamental",
+    "retroalimentacion_2da_oportunidad": "Retroalimentación de 2da. oportunidad",
+    "entrega_boleta_semestral": "Entrega de boleta semestral",
+    "reinscripcion_estudiantes_regulares": "Reinscripción estudiantes regulares",
+    "reinscripcion_estudiantes_irregulares": "Reinscripción estudiantes irregulares",
+    "captura_calificaciones": "Captura de calificaciones en el sistema de control escolar",
+    "inicio_curso_verano": "Inicia curso de verano",
+    "fin_curso_verano": "Fin de curso de verano",
+    "publicacion_cursos_verano": "Publicación de cursos de verano",
+    "curso_induccion_propedeutico": "Curso de inducción y propedéutico",
+    "cierre_sistema_informes_finales": "Cierre del sistema para informes finales",
+    "comite_academico": "Comité académico (solicitudes estudiantiles)"
+  },
+  "eventos": [
+    {
+      "tipo": "inicio_de_semestre",
+      "fecha": "2026-09-01"
+    },
+    {
+      "tipo": "suspension_de_labores",
+      "fecha": "2026-09-16"
+    },
+    {
+      "tipo": "termino_de_semestre",
+      "fecha": "2027-01-29"
+    },
+    {
+      "tipo": "inicio_de_semestre",
+      "fecha": "2027-03-01"
+    },
+    {
+      "tipo": "termino_de_semestre",
+      "fecha": "2027-07-02"
+    },
+    {
+      "tipo": "suspension_de_labores",
+      "fecha": "2026-11-02"
+    },
+    {
+      "tipo": "suspension_de_labores",
+      "fecha": "2026-11-16"
+    },
+    {
+      "tipo": "suspension_de_labores",
+      "fecha": "2026-12-25"
+    },
+    {
+      "tipo": "suspension_de_labores",
+      "fecha": "2027-01-01"
+    },
+    {
+      "tipo": "suspension_de_labores",
+      "fecha": "2027-02-01"
+    },
+    {
+      "tipo": "suspension_de_labores",
+      "fecha": "2027-03-02"
+    },
+    {
+      "tipo": "suspension_de_labores",
+      "fecha": "2027-03-15"
+    },
+    {
+      "tipo": "suspension_de_labores",
+      "fecha": "2027-03-25"
+    },
+    {
+      "tipo": "suspension_de_labores",
+      "fecha": "2027-03-26"
+    },
+    {
+      "tipo": "suspension_de_labores",
+      "fecha": "2027-05-01"
+    },
+    {
+      "tipo": "suspension_de_labores",
+      "fecha": "2027-05-05"
+    },
+    {
+      "tipo": "periodo_vacacional",
+      "inicio": "2026-12-21",
+      "fin": "2026-12-31"
+    },
+    {
+      "tipo": "en_el_sistema",
+      "inicio": "2027-01-04",
+      "fin": "2027-01-05"
+    },
+    {
+      "tipo": "en_el_sistema",
+      "inicio": "2027-03-22",
+      "fin": "2027-03-24"
+    },
+    {
+      "tipo": "en_el_sistema",
+      "inicio": "2027-07-19",
+      "fin": "2027-07-23"
+    },
+    {
+      "tipo": "en_el_sistema",
+      "inicio": "2027-07-26",
+      "fin": "2027-07-27"
+    },
+    {
+      "tipo": "seguimiento_departamental",
+      "inicio": "2026-10-05",
+      "fin": "2026-10-09"
+    },
+    {
+      "tipo": "seguimiento_departamental",
+      "inicio": "2026-11-23",
+      "fin": "2026-11-27"
+    },
+    {
+      "tipo": "seguimiento_departamental",
+      "inicio": "2027-04-12",
+      "fin": "2027-04-16"
+    },
+    {
+      "tipo": "seguimiento_departamental",
+      "inicio": "2027-05-24",
+      "fin": "2027-05-28"
+    },
+    {
+      "tipo": "seguimiento_departamental",
+      "inicio": "2027-07-12",
+      "fin": "2027-07-16"
+    },
+    {
+      "tipo": "actividades_academicas",
+      "inicio": "2026-10-01",
+      "fin": "2026-10-02"
+    },
+    {
+      "tipo": "actividades_academicas",
+      "inicio": "2026-11-18",
+      "fin": "2026-11-20"
+    },
+    {
+      "tipo": "actividades_academicas",
+      "inicio": "2027-01-13",
+      "fin": "2027-01-15"
+    },
+    {
+      "tipo": "actividades_academicas",
+      "inicio": "2027-04-07",
+      "fin": "2027-04-09"
+    },
+    {
+      "tipo": "actividades_academicas",
+      "inicio": "2027-06-16",
+      "fin": "2027-06-18"
+    },
+    {
+      "tipo": "retroalimentacion_2da_oportunidad",
+      "inicio": "2027-01-25",
+      "fin": "2027-01-27"
+    },
+    {
+      "tipo": "retroalimentacion_2da_oportunidad",
+      "inicio": "2027-06-28",
+      "fin": "2027-06-30"
+    },
+    {
+      "tipo": "reinscripcion_estudiantes_regulares",
+      "inicio": "2027-02-15",
+      "fin": "2027-02-16"
+    },
+    {
+      "tipo": "reinscripcion_estudiantes_irregulares",
+      "inicio": "2027-02-17",
+      "fin": "2027-02-19"
+    },
+    {
+      "tipo": "reinscripcion_estudiantes_regulares",
+      "inicio": "2027-08-15",
+      "fin": "2027-08-17"
+    },
+    {
+      "tipo": "reinscripcion_estudiantes_irregulares",
+      "inicio": "2027-08-18",
+      "fin": "2027-08-20"
+    },
+    {
+      "tipo": "entrega_boleta_semestral",
+      "inicio": "2027-02-10",
+      "fin": "2027-02-12"
+    },
+    {
+      "tipo": "entrega_boleta_semestral",
+      "inicio": "2027-08-10",
+      "fin": "2027-08-12"
+    },
+    {
+      "tipo": "captura_calificaciones",
+      "fecha": "2027-01-28"
+    },
+    {
+      "tipo": "captura_calificaciones",
+      "fecha": "2027-08-13"
+    },
+    {
+      "tipo": "inicio_curso_verano",
+      "fecha": "2027-07-05"
+    },
+    {
+      "tipo": "fin_curso_verano",
+      "fecha": "2027-08-30"
+    },
+    {
+      "tipo": "publicacion_cursos_verano",
+      "fecha": "2027-06-04"
+    },
+    {
+      "tipo": "curso_induccion_propedeutico",
+      "inicio": "2027-08-02",
+      "fin": "2027-08-06"
+    },
+    {
+      "tipo": "cierre_sistema_informes_finales",
+      "fecha": "2027-07-09"
+    },
+    {
+      "tipo": "comite_academico",
+      "inicio": "2027-01-11",
+      "fin": "2027-01-22",
+      "detalle": "Solicitudes estudiantiles"
+    },
+    {
+      "tipo": "comite_academico",
+      "inicio": "2027-06-28",
+      "fin": "2027-07-09",
+      "detalle": "Solicitudes estudiantiles"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+INSTRUCCIONES PARA OPENCODE — CALENDARIO TESCHA
+
+Se agregó el archivo:
+  calendario_TESCHA_2026_2027.json
+
+También existe:
+  calendario_TESCHA_2026_2027.txt
+
+PROPÓSITO:
+Usar el calendario escolar TESCHA 2026-2027 como fuente estructurada para
+la aplicación de planeaciones docentes.
+
+REGLAS:
+1. Leer primero el JSON antes de implementar lógica relacionada con fechas.
+2. No inventar fechas.
+3. No cambiar fechas sin autorización.
+4. Mantener los nombres de las categorías de la leyenda.
+5. Permitir que la aplicación consulte si una fecha está dentro de un periodo
+   institucional.
+6. Las fechas deben almacenarse en formato ISO YYYY-MM-DD.
+7. Los rangos deben manejarse con "inicio" y "fin".
+8. Si una fecha tiene más de un evento, conservar ambos eventos.
+9. El calendario original es la fuente visual; el JSON es su representación
+   estructurada para el software.
+10. Antes de modificar archivos existentes, explicar qué archivo se modificará
+    y por qué.
+
+CASO DE USO PARA LA APP:
+Cuando un docente genere una planeación para determinadas fechas, el sistema
+puede consultar este calendario y mostrar avisos como:
+- "La fecha coincide con suspensión de labores."
+- "La fecha se encuentra dentro de un periodo institucional."
+- "Existe una actividad académica programada."
+- "La fecha está fuera del periodo ordinario del semestre."
+
+No cambies el funcionamiento actual de la aplicación solamente por agregar
+este archivo. Primero analiza cómo está organizada la app y propón dónde debe
+integrarse.

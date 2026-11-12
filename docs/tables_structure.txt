@@ -1,0 +1,38 @@
+﻿=== TABLA 1 ===
+  Fila 1: C1: MATERIA: (4) | C2: GESTIÓN DE PROYECTOS DE SOFTWARE | C3: HT | C4: 3 | C5: HP | C6: 3 | C7: HT | C8: 6 | C9: No. DE UNIDADES:   (5) | C10: 5
+
+=== TABLA 2 ===
+  Fila 1: C1: OBJETIVO DE LA MATERIA: (6)
+  Fila 2: C1: Aplica r  metodologías e instrumentos, para garantizar la gestión adecuada de un proyecto de software.
+
+=== TABLA 3 ===
+  Fila 1: C1: GRUPO: (7) | C2: 4 7 01 | C3: CARRERA : (8) | C4: INGENIERÍA EN SISTEMAS COMPUTACIONALES | C5: DOCENTE: (9) | C6: Fabiola García Gutierrez
+
+=== TABLA 4 ===
+  Fila 1: C1: Unidad Temática (10) | C2: Subtemas (11) | C3: Fechas (Periodo) | C4: Evaluación | C5: Firma del  (la)   Docente (16) | C6: Firma del  (a)   Jefe  (a)  Académico (17) | C7: Observaciones (18)
+  Fila 2: C1:  | C2:  | C3: Programado (12) | C4: Real (13) | C5: Programada (14) | C6: Real (15) | C7:  | C8:  | C9: 
+  Fila 3: C1: INTRODUCCIÓN A LA GESTIÓN DE PROYECTOS   | C2: 1.1. Conceptos básicos para la gestión de proyectos. | C3: 1 al 4 de septiembre | C4:  | C5: 28 de septiembre al 2 de octubre | C6:  | C7:  | C8:  | C9: 
+  Fila 4: C1:  | C2: 1.2. Fases de la gestión de proyectos. 1.2.1. Planificación de proyectos. 1.2.2. Propuesta. 1.2.3. Selección y Evaluación de personal. 1.2.4. Supervisión y Revisión del proyecto. 1.2.5. Informes. | C3: 7 al 11 de septiembre | C4:  | C5:  | C6:  | C7:  | C8:  | C9: 
+  Fila 5: C1:  | C2: 1.3 Fundamentos de Project Management  Institute . | C3: 7 al 11 de septiembre | C4:  | C5:  | C6:  | C7:  | C8:  | C9: 
+  Fila 6: C1: GESTIÓN DE CALIDAD | C2: 2.1 Plan de calidad del software. | C3: 14 al 18 de septiembre | C4:  | C5: 28 de septiembre al 2 de octubre | C6:  | C7:  | C8:  | C9: 
+  Fila 7: C1:  | C2: 2.2 La gestión de proyectos usando un marco de calidad. | C3: 14 al 18 de septiembre | C4:  | C5:  | C6:  | C7:  | C8:  | C9: 
+  Fila 8: C1:  | C2: 2.3 Estándares y Métricas de calidad en la ingeniería de software. 2.3.1 CMMI. 2.3.2 MoProSoft. | C3: 21 al 25 de septiembre | C4:  | C5:  | C6:  | C7:  | C8:  | C9: 
+  Fila 9: C1:  | C2: 2.4 Impacto de la calidad en tiempo, costo y alcance del proyecto. | C3: 21 al 25 de septiembre | C4:  | C5:  | C6:  | C7:  | C8:  | C9: 
+  Fila 10: C1:  | C2: 2.5 Control del cambio. | C3: 21 al 25 de septiembre | C4:  | C5:  | C6:  | C7:  | C8:  | C9: 
+  Fila 11: C1: PLANIFICACIÓN DEL PROYECTO | C2: 3.1 Objetivo del proyecto. | C3: 5 al 9 octubre | C4:  | C5: 26 al 30 de octubre | C6:  | C7:  | C8:  | C9: 
+  Fila 12: C1:  | C2: 3.2 Estimaciones de tiempo. | C3: 5 al 9 octubre | C4:  | C5:  | C6:  | C7:  | C8:  | C9: 
+  Fila 13: C1:  | C2: 3.3 Estimaciones de costos. | C3: 12 al 16 de octubre | C4:  | C5:  | C6:  | C7:  | C8:  | C9: 
+  Fila 14: C1:  | C2: 3.4 Estimación de personal requerido. | C3: 12 al 16 de octubre | C4:  | C5:  | C6:  | C7:  | C8:  | C9: 
+  Fila 15: C1:  | C2: 3.5 Análisis de riesgos. 3.5.1 Tipos de riesgos. 3.5.2 Identificación, Impacto y proyección del riesgo. 3.5.3 Evaluación del riesgo. 3.5.4 Estrategias frente al riesgo. | C3: 19 al 23 de octubre | C4:  | C5:  | C6:  | C7:  | C8:  | C9: 
+  Fila 16: C1:  | C2: 3.6 Análisis de la viabilidad del proyecto. | C3: 19 al 23 de octubre   | C4:  | C5:  | C6:  | C7:  | C8:  | C9: 
+  Fila 17: C1: PRESENTACIÓN DE LA INFORMACIÓN | C2: 4.1. Propuesta. 4.1.1. Justificación del proyecto. 4.1.2. Calendario de actividades. 4.1.3. Personal involucrado. 4.1.4. Políticas de comunicación y seguimiento. | C3: 03 al 06 de noviembre | C4:  | C5: 9 al 13 de noviembre | C6:  | C7:  | C8:  | C9: 
+  Fila 18: C1:  | C2: 4.2. Lineamientos de comunicación y seguimiento. 4.2.1. Formatos. 4.2.2. Herramientas. | C3: 03 al 06 de noviembre | C4:  | C5:  | C6:  | C7:  | C8:  | C9: 
+  Fila 19: C1:  | C2: 4.3. Contrato. | C3: 03 al 06 de noviembre | C4:  | C5:  | C6:  | C7:  | C8:  | C9: 
+  Fila 20: C1: SUPERVISIÓN Y REVISIÓN DEL PROYECTO | C2: 5.1. Administración de actividades | C3: 17 al 20 de noviembre | C4:  | C5: 7 al 11 de diciembre | C6:  | C7:  | C8:  | C9: 
+  Fila 21: C1:  | C2: 5.2. Administración del tiempo | C3: 23 al 27 de noviembre | C4:  | C5:  | C6:  | C7:  | C8:  | C9: 
+  Fila 22: C1:  | C2: 5.3. Evaluación y ajustes del proyecto. | C3: 30 de noviembre al 4 de diciembre | C4:  | C5:  | C6:  | C7:  | C8:  | C9: 
+  Fila 23: C1:  | C2: SEGUNDA OPORTUNIDAD | C3: 14 al 18 de diciembre | C4:  | C5: 14 al 18 de diciembre | C6:  | C7:  | C8:  | C9: 
+  Fila 24: C1:  | C2: RETROALIMENTACIÓN DE SEGUNDA OPORTUNIDAD | C3: 11 al 15 de enero | C4:  | C5: 11 al 15 de enero | C6:  | C7:  | C8:  | C9: 
+  Fila 25: C1: Fecha de entrega de programación | C2: Fecha Programada para 1er, 2do y 3er. Seguimiento | C3: Fecha Programada de entrega de reporte final
+  Fila 26: C1: Antes de inicio de clases 31  de  agosto  de 2026 | C2: Del  5  al  9  de  octubre  de 2026 | C3: Del 2 3  al 2 7   de   noviembre  de 2026 | C4: Del  8  al 1 2  de  febrero  de 202 7 | C5: Del  01  al  05  de  febrero  de 202 7
+

@@ -1,0 +1,773 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:ftr xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16sdtfl="http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh w16sdtfl w16du wp14">
+  <w:p w14:paraId="537D55BB" w14:textId="77777777" w:rsidR="000E57A1" w:rsidRPr="002814DC" w:rsidRDefault="00D15A7C" w:rsidP="000E57A1">
+    <w:pPr>
+      <w:rPr>
+        <w:b />
+        <w:sz w:val="18" />
+        <w:szCs w:val="18" />
+      </w:rPr>
+    </w:pPr>
+    <w:r>
+      <w:rPr>
+        <w:noProof />
+      </w:rPr>
+      <mc:AlternateContent>
+        <mc:Choice Requires="wps">
+          <w:drawing>
+            <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251654144" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1" wp14:anchorId="3D952D4E" wp14:editId="1EF7CE46">
+              <wp:simplePos x="0" y="0" />
+              <wp:positionH relativeFrom="column">
+                <wp:posOffset>3057525</wp:posOffset>
+              </wp:positionH>
+              <wp:positionV relativeFrom="paragraph">
+                <wp:posOffset>8787130</wp:posOffset>
+              </wp:positionV>
+              <wp:extent cx="4622165" cy="571500" />
+              <wp:effectExtent l="0" t="0" r="0" b="0" />
+              <wp:wrapNone />
+              <wp:docPr id="1" name="Cuadro de texto 6" />
+              <wp:cNvGraphicFramePr>
+                <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" />
+              </wp:cNvGraphicFramePr>
+              <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                  <wps:wsp>
+                    <wps:cNvSpPr txBox="1">
+                      <a:spLocks />
+                    </wps:cNvSpPr>
+                    <wps:spPr>
+                      <a:xfrm>
+                        <a:off x="0" y="0" />
+                        <a:ext cx="4622165" cy="571500" />
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst />
+                      </a:prstGeom>
+                      <a:noFill />
+                      <a:ln w="6350">
+                        <a:noFill />
+                      </a:ln>
+                      <a:effectLst />
+                    </wps:spPr>
+                    <wps:style>
+                      <a:lnRef idx="0">
+                        <a:schemeClr val="accent1" />
+                      </a:lnRef>
+                      <a:fillRef idx="0">
+                        <a:schemeClr val="accent1" />
+                      </a:fillRef>
+                      <a:effectRef idx="0">
+                        <a:schemeClr val="accent1" />
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="dk1" />
+                      </a:fontRef>
+                    </wps:style>
+                    <wps:txbx>
+                      <w:txbxContent>
+                        <w:p w14:paraId="5C6B6AE8" w14:textId="77777777" w:rsidR="00436071" w:rsidRPr="0034240E" w:rsidRDefault="00436071" w:rsidP="00436071">
+                          <w:pPr>
+                            <w:pStyle w:val="Sinespaciado" />
+                            <w:jc w:val="right" />
+                            <w:rPr>
+                              <w:rFonts w:ascii="HelveticaNeueLT Std Med" w:hAnsi="HelveticaNeueLT Std Med" />
+                              <w:b />
+                              <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                              <w:sz w:val="16" />
+                              <w:szCs w:val="16" />
+                            </w:rPr>
+                          </w:pPr>
+                          <w:r w:rsidRPr="0034240E">
+                            <w:rPr>
+                              <w:rFonts w:ascii="HelveticaNeueLT Std Med" w:hAnsi="HelveticaNeueLT Std Med" />
+                              <w:b />
+                              <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                              <w:sz w:val="16" />
+                              <w:szCs w:val="16" />
+                            </w:rPr>
+                            <w:t>SECRETARÍA DE EDUCACIÓN</w:t>
+                          </w:r>
+                        </w:p>
+                        <w:p w14:paraId="1FF1297D" w14:textId="77777777" w:rsidR="00436071" w:rsidRPr="0034240E" w:rsidRDefault="00436071" w:rsidP="00436071">
+                          <w:pPr>
+                            <w:pStyle w:val="Sinespaciado" />
+                            <w:jc w:val="right" />
+                            <w:rPr>
+                              <w:rFonts w:ascii="HelveticaNeueLT Std Med" w:hAnsi="HelveticaNeueLT Std Med" />
+                              <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                              <w:sz w:val="16" />
+                              <w:szCs w:val="16" />
+                            </w:rPr>
+                          </w:pPr>
+                          <w:r w:rsidRPr="0034240E">
+                            <w:rPr>
+                              <w:rFonts w:ascii="HelveticaNeueLT Std Med" w:hAnsi="HelveticaNeueLT Std Med" />
+                              <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                              <w:sz w:val="16" />
+                              <w:szCs w:val="16" />
+                            </w:rPr>
+                            <w:t xml:space="preserve">SUBSECRETARÍA DE </w:t>
+                          </w:r>
+                          <w:proofErr w:type="gramStart" />
+                          <w:r w:rsidRPr="0034240E">
+                            <w:rPr>
+                              <w:rFonts w:ascii="HelveticaNeueLT Std Med" w:hAnsi="HelveticaNeueLT Std Med" />
+                              <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                              <w:sz w:val="16" />
+                              <w:szCs w:val="16" />
+                            </w:rPr>
+                            <w:t>EDUCACIÓN  SUPERIOR</w:t>
+                          </w:r>
+                          <w:proofErr w:type="gramEnd" />
+                          <w:r w:rsidRPr="0034240E">
+                            <w:rPr>
+                              <w:rFonts w:ascii="HelveticaNeueLT Std Med" w:hAnsi="HelveticaNeueLT Std Med" />
+                              <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                              <w:sz w:val="16" />
+                              <w:szCs w:val="16" />
+                            </w:rPr>
+                            <w:t xml:space="preserve"> Y NORMAL</w:t>
+                          </w:r>
+                        </w:p>
+                        <w:p w14:paraId="01D166C6" w14:textId="77777777" w:rsidR="00436071" w:rsidRPr="0034240E" w:rsidRDefault="00436071" w:rsidP="00436071">
+                          <w:pPr>
+                            <w:pStyle w:val="Sinespaciado" />
+                            <w:jc w:val="right" />
+                            <w:rPr>
+                              <w:rFonts w:ascii="HelveticaNeueLT Std Lt" w:hAnsi="HelveticaNeueLT Std Lt" />
+                              <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                              <w:sz w:val="16" />
+                              <w:szCs w:val="16" />
+                            </w:rPr>
+                          </w:pPr>
+                          <w:r w:rsidRPr="0034240E">
+                            <w:rPr>
+                              <w:rFonts w:ascii="HelveticaNeueLT Std Lt" w:hAnsi="HelveticaNeueLT Std Lt" />
+                              <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                              <w:sz w:val="16" />
+                              <w:szCs w:val="16" />
+                            </w:rPr>
+                            <w:t>TECNOLÓGICO DE ESTUDIOS SUPERIORES DE CHALCO</w:t>
+                          </w:r>
+                        </w:p>
+                      </w:txbxContent>
+                    </wps:txbx>
+                    <wps:bodyPr rot="0" spcFirstLastPara="0" vertOverflow="overflow" horzOverflow="overflow" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="t" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst />
+                      </a:prstTxWarp>
+                      <a:noAutofit />
+                    </wps:bodyPr>
+                  </wps:wsp>
+                </a:graphicData>
+              </a:graphic>
+              <wp14:sizeRelH relativeFrom="margin">
+                <wp14:pctWidth>0</wp14:pctWidth>
+              </wp14:sizeRelH>
+              <wp14:sizeRelV relativeFrom="page">
+                <wp14:pctHeight>0</wp14:pctHeight>
+              </wp14:sizeRelV>
+            </wp:anchor>
+          </w:drawing>
+        </mc:Choice>
+        <mc:Fallback>
+          <w:pict>
+            <v:shapetype w14:anchorId="3D952D4E" id="_x0000_t202" coordsize="21600,21600" o:spt="202" path="m,l,21600r21600,l21600,xe">
+              <v:stroke joinstyle="miter" />
+              <v:path gradientshapeok="t" o:connecttype="rect" />
+            </v:shapetype>
+            <v:shape id="Cuadro de texto 6" o:spid="_x0000_s1026" type="#_x0000_t202" style="position:absolute;margin-left:240.75pt;margin-top:691.9pt;width:363.95pt;height:45pt;z-index:251654144;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:text;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:margin;mso-height-relative:page;v-text-anchor:top" o:gfxdata="UEsDBBQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF&#xA;90jcwfIWJU67QAgl6YK0S0CoHGBkTxKLZGx5TGhvj5O2G0SRWNoz/78nu9wcxkFMGNg6quQqL6RA&#xA;0s5Y6ir5vt9lD1JwBDIwOMJKHpHlpr69KfdHjyxSmriSfYz+USnWPY7AufNIadK6MEJMx9ApD/oD&#xA;OlTrorhX2lFEilmcO2RdNtjC5xDF9pCuTyYBB5bi6bQ4syoJ3g9WQ0ymaiLzg5KdCXlKLjvcW893&#xA;SUOqXwnz5DrgnHtJTxOsQfEKIT7DmDSUCaxw7Rqn8787ZsmRM9e2VmPeBN4uqYvTtW7jvijg9N/y&#xA;JsXecLq0q+WD6m8AAAD//wMAUEsDBBQABgAIAAAAIQA4/SH/1gAAAJQBAAALAAAAX3JlbHMvLnJl&#xA;bHOkkMFqwzAMhu+DvYPRfXGawxijTi+j0GvpHsDYimMaW0Yy2fr2M4PBMnrbUb/Q94l/f/hMi1qR&#xA;JVI2sOt6UJgd+ZiDgffL8ekFlFSbvV0oo4EbChzGx4f9GRdb25HMsYhqlCwG5lrLq9biZkxWOiqY&#xA;22YiTra2kYMu1l1tQD30/bPm3wwYN0x18gb45AdQl1tp5j/sFB2T0FQ7R0nTNEV3j6o9feQzro1i&#xA;OWA14Fm+Q8a1a8+Bvu/d/dMb2JY5uiPbhG/ktn4cqGU/er3pcvwCAAD//wMAUEsDBBQABgAIAAAA&#xA;IQAEWUPVeQIAAFYFAAAOAAAAZHJzL2Uyb0RvYy54bWysVN9v2jAQfp+0/8Hy+whhQLeIUDEqpkmo&#xA;rUanPhvHhqiOz7MNCfvrd3YSQN1eOu0lOfu+O9+P725221SKHIV1JeicpoMhJUJzKEq9y+mPp9WH&#xA;T5Q4z3TBFGiR05Nw9Hb+/t2sNpkYwR5UISxBJ9pltcnp3nuTJYnje1ExNwAjNCol2Ip5PNpdUlhW&#xA;o/dKJaPhcJrUYAtjgQvn8PauVdJ59C+l4P5BSic8UTnF2Hz82vjdhm8yn7FsZ5nZl7wLg/1DFBUr&#xA;NT56dnXHPCMHW/7hqiq5BQfSDzhUCUhZchFzwGzS4atsNntmRMwFi+PMuUzu/7nl98eNebTEN1+g&#xA;wQbGJJxZA39xWJukNi7rMKGmLnOIDok20lbhjykQNMTans71FI0nHC/H09EonU4o4aib3KSTYSx4&#xA;crE21vmvAioShJxa7FeMgB3Xzof3WdZDwmMaVqVSsWdKkzqn04+TYTQ4a9BC6YAVsfudm0vkUfIn&#xA;JQJG6e9CkrKICYSLyDuxVJYcGTKGcS60TwNLol9EB5TEIN5i2OEvUb3FuM2jfxm0PxtXpQbbNiyM&#xA;yyXs4qUPWbb4rpGuzTuUwDfbBrMK4haKEzLAQjsczvBVid1YM+cfmcVpwN7ihPsH/EgFWHXoJEr2&#xA;YH/97T7gkaSopaTG6cqp+3lgVlCivmmk7+d0PA7jGA/jyc0ID/Zas73W6EO1BGxHirvE8CgGvFe9&#xA;KC1Uz7gIFuFVVDHN8e2c+l5c+nbmcZFwsVhEEA6gYX6tN4b3xA9ce2qemTUdIT1S+R76OWTZK162&#xA;2NBXDYuDB1lG0l6q2hUehzcyqFs0YTtcnyPqsg7nvwEAAP//AwBQSwMEFAAGAAgAAAAhAHN3+Rzk&#xA;AAAADgEAAA8AAABkcnMvZG93bnJldi54bWxMj0FPwzAMhe9I/IfISNxYuq6DUppOU6UJCcFhYxdu&#xA;bpO1FY1Tmmwr/Hq8E9xsv6fn7+WryfbiZEbfOVIwn0UgDNVOd9Qo2L9v7lIQPiBp7B0ZBd/Gw6q4&#xA;vsox0+5MW3PahUZwCPkMFbQhDJmUvm6NRT9zgyHWDm60GHgdG6lHPHO47WUcRffSYkf8ocXBlK2p&#xA;P3dHq+Cl3Lzhtopt+tOXz6+H9fC1/1gqdXszrZ9ABDOFPzNc8BkdCmaq3JG0F72CJJ0v2crCIl1w&#xA;iYsljh4TEBVPyQPfZJHL/zWKXwAAAP//AwBQSwECLQAUAAYACAAAACEAtoM4kv4AAADhAQAAEwAA&#xA;AAAAAAAAAAAAAAAAAAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQItABQABgAIAAAAIQA4/SH/1gAA&#xA;AJQBAAALAAAAAAAAAAAAAAAAAC8BAABfcmVscy8ucmVsc1BLAQItABQABgAIAAAAIQAEWUPVeQIA&#xA;AFYFAAAOAAAAAAAAAAAAAAAAAC4CAABkcnMvZTJvRG9jLnhtbFBLAQItABQABgAIAAAAIQBzd/kc&#xA;5AAAAA4BAAAPAAAAAAAAAAAAAAAAANMEAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAQABADzAAAA&#xA;5AUAAAAA&#xA;" filled="f" stroked="f" strokeweight=".5pt">
+              <v:textbox>
+                <w:txbxContent>
+                  <w:p w14:paraId="5C6B6AE8" w14:textId="77777777" w:rsidR="00436071" w:rsidRPr="0034240E" w:rsidRDefault="00436071" w:rsidP="00436071">
+                    <w:pPr>
+                      <w:pStyle w:val="Sinespaciado" />
+                      <w:jc w:val="right" />
+                      <w:rPr>
+                        <w:rFonts w:ascii="HelveticaNeueLT Std Med" w:hAnsi="HelveticaNeueLT Std Med" />
+                        <w:b />
+                        <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                        <w:sz w:val="16" />
+                        <w:szCs w:val="16" />
+                      </w:rPr>
+                    </w:pPr>
+                    <w:r w:rsidRPr="0034240E">
+                      <w:rPr>
+                        <w:rFonts w:ascii="HelveticaNeueLT Std Med" w:hAnsi="HelveticaNeueLT Std Med" />
+                        <w:b />
+                        <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                        <w:sz w:val="16" />
+                        <w:szCs w:val="16" />
+                      </w:rPr>
+                      <w:t>SECRETARÍA DE EDUCACIÓN</w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p w14:paraId="1FF1297D" w14:textId="77777777" w:rsidR="00436071" w:rsidRPr="0034240E" w:rsidRDefault="00436071" w:rsidP="00436071">
+                    <w:pPr>
+                      <w:pStyle w:val="Sinespaciado" />
+                      <w:jc w:val="right" />
+                      <w:rPr>
+                        <w:rFonts w:ascii="HelveticaNeueLT Std Med" w:hAnsi="HelveticaNeueLT Std Med" />
+                        <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                        <w:sz w:val="16" />
+                        <w:szCs w:val="16" />
+                      </w:rPr>
+                    </w:pPr>
+                    <w:r w:rsidRPr="0034240E">
+                      <w:rPr>
+                        <w:rFonts w:ascii="HelveticaNeueLT Std Med" w:hAnsi="HelveticaNeueLT Std Med" />
+                        <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                        <w:sz w:val="16" />
+                        <w:szCs w:val="16" />
+                      </w:rPr>
+                      <w:t xml:space="preserve">SUBSECRETARÍA DE </w:t>
+                    </w:r>
+                    <w:proofErr w:type="gramStart" />
+                    <w:r w:rsidRPr="0034240E">
+                      <w:rPr>
+                        <w:rFonts w:ascii="HelveticaNeueLT Std Med" w:hAnsi="HelveticaNeueLT Std Med" />
+                        <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                        <w:sz w:val="16" />
+                        <w:szCs w:val="16" />
+                      </w:rPr>
+                      <w:t>EDUCACIÓN  SUPERIOR</w:t>
+                    </w:r>
+                    <w:proofErr w:type="gramEnd" />
+                    <w:r w:rsidRPr="0034240E">
+                      <w:rPr>
+                        <w:rFonts w:ascii="HelveticaNeueLT Std Med" w:hAnsi="HelveticaNeueLT Std Med" />
+                        <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                        <w:sz w:val="16" />
+                        <w:szCs w:val="16" />
+                      </w:rPr>
+                      <w:t xml:space="preserve"> Y NORMAL</w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p w14:paraId="01D166C6" w14:textId="77777777" w:rsidR="00436071" w:rsidRPr="0034240E" w:rsidRDefault="00436071" w:rsidP="00436071">
+                    <w:pPr>
+                      <w:pStyle w:val="Sinespaciado" />
+                      <w:jc w:val="right" />
+                      <w:rPr>
+                        <w:rFonts w:ascii="HelveticaNeueLT Std Lt" w:hAnsi="HelveticaNeueLT Std Lt" />
+                        <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                        <w:sz w:val="16" />
+                        <w:szCs w:val="16" />
+                      </w:rPr>
+                    </w:pPr>
+                    <w:r w:rsidRPr="0034240E">
+                      <w:rPr>
+                        <w:rFonts w:ascii="HelveticaNeueLT Std Lt" w:hAnsi="HelveticaNeueLT Std Lt" />
+                        <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                        <w:sz w:val="16" />
+                        <w:szCs w:val="16" />
+                      </w:rPr>
+                      <w:t>TECNOLÓGICO DE ESTUDIOS SUPERIORES DE CHALCO</w:t>
+                    </w:r>
+                  </w:p>
+                </w:txbxContent>
+              </v:textbox>
+            </v:shape>
+          </w:pict>
+        </mc:Fallback>
+      </mc:AlternateContent>
+    </w:r>
+    <w:r>
+      <w:rPr>
+        <w:noProof />
+      </w:rPr>
+      <mc:AlternateContent>
+        <mc:Choice Requires="wps">
+          <w:drawing>
+            <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251656192" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1" wp14:anchorId="23B10B1A" wp14:editId="5A03BCB6">
+              <wp:simplePos x="0" y="0" />
+              <wp:positionH relativeFrom="column">
+                <wp:posOffset>3057525</wp:posOffset>
+              </wp:positionH>
+              <wp:positionV relativeFrom="paragraph">
+                <wp:posOffset>8787130</wp:posOffset>
+              </wp:positionV>
+              <wp:extent cx="4622165" cy="571500" />
+              <wp:effectExtent l="0" t="0" r="0" b="0" />
+              <wp:wrapNone />
+              <wp:docPr id="33" name="Cuadro de texto 6" />
+              <wp:cNvGraphicFramePr>
+                <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" />
+              </wp:cNvGraphicFramePr>
+              <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                  <wps:wsp>
+                    <wps:cNvSpPr txBox="1">
+                      <a:spLocks />
+                    </wps:cNvSpPr>
+                    <wps:spPr>
+                      <a:xfrm>
+                        <a:off x="0" y="0" />
+                        <a:ext cx="4622165" cy="571500" />
+                      </a:xfrm>
+                      <a:prstGeom prst="rect">
+                        <a:avLst />
+                      </a:prstGeom>
+                      <a:noFill />
+                      <a:ln w="6350">
+                        <a:noFill />
+                      </a:ln>
+                      <a:effectLst />
+                    </wps:spPr>
+                    <wps:style>
+                      <a:lnRef idx="0">
+                        <a:schemeClr val="accent1" />
+                      </a:lnRef>
+                      <a:fillRef idx="0">
+                        <a:schemeClr val="accent1" />
+                      </a:fillRef>
+                      <a:effectRef idx="0">
+                        <a:schemeClr val="accent1" />
+                      </a:effectRef>
+                      <a:fontRef idx="minor">
+                        <a:schemeClr val="dk1" />
+                      </a:fontRef>
+                    </wps:style>
+                    <wps:txbx>
+                      <w:txbxContent>
+                        <w:p w14:paraId="60CB3D8D" w14:textId="77777777" w:rsidR="00436071" w:rsidRPr="0034240E" w:rsidRDefault="00436071" w:rsidP="00436071">
+                          <w:pPr>
+                            <w:pStyle w:val="Sinespaciado" />
+                            <w:jc w:val="right" />
+                            <w:rPr>
+                              <w:rFonts w:ascii="HelveticaNeueLT Std Med" w:hAnsi="HelveticaNeueLT Std Med" />
+                              <w:b />
+                              <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                              <w:sz w:val="16" />
+                              <w:szCs w:val="16" />
+                            </w:rPr>
+                          </w:pPr>
+                          <w:r w:rsidRPr="0034240E">
+                            <w:rPr>
+                              <w:rFonts w:ascii="HelveticaNeueLT Std Med" w:hAnsi="HelveticaNeueLT Std Med" />
+                              <w:b />
+                              <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                              <w:sz w:val="16" />
+                              <w:szCs w:val="16" />
+                            </w:rPr>
+                            <w:t>SECRETARÍA DE EDUCACIÓN</w:t>
+                          </w:r>
+                        </w:p>
+                        <w:p w14:paraId="70054122" w14:textId="77777777" w:rsidR="00436071" w:rsidRPr="0034240E" w:rsidRDefault="00436071" w:rsidP="00436071">
+                          <w:pPr>
+                            <w:pStyle w:val="Sinespaciado" />
+                            <w:jc w:val="right" />
+                            <w:rPr>
+                              <w:rFonts w:ascii="HelveticaNeueLT Std Med" w:hAnsi="HelveticaNeueLT Std Med" />
+                              <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                              <w:sz w:val="16" />
+                              <w:szCs w:val="16" />
+                            </w:rPr>
+                          </w:pPr>
+                          <w:r w:rsidRPr="0034240E">
+                            <w:rPr>
+                              <w:rFonts w:ascii="HelveticaNeueLT Std Med" w:hAnsi="HelveticaNeueLT Std Med" />
+                              <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                              <w:sz w:val="16" />
+                              <w:szCs w:val="16" />
+                            </w:rPr>
+                            <w:t xml:space="preserve">SUBSECRETARÍA DE </w:t>
+                          </w:r>
+                          <w:proofErr w:type="gramStart" />
+                          <w:r w:rsidRPr="0034240E">
+                            <w:rPr>
+                              <w:rFonts w:ascii="HelveticaNeueLT Std Med" w:hAnsi="HelveticaNeueLT Std Med" />
+                              <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                              <w:sz w:val="16" />
+                              <w:szCs w:val="16" />
+                            </w:rPr>
+                            <w:t>EDUCACIÓN  SUPERIOR</w:t>
+                          </w:r>
+                          <w:proofErr w:type="gramEnd" />
+                          <w:r w:rsidRPr="0034240E">
+                            <w:rPr>
+                              <w:rFonts w:ascii="HelveticaNeueLT Std Med" w:hAnsi="HelveticaNeueLT Std Med" />
+                              <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                              <w:sz w:val="16" />
+                              <w:szCs w:val="16" />
+                            </w:rPr>
+                            <w:t xml:space="preserve"> Y NORMAL</w:t>
+                          </w:r>
+                        </w:p>
+                        <w:p w14:paraId="14A0994F" w14:textId="77777777" w:rsidR="00436071" w:rsidRPr="0034240E" w:rsidRDefault="00436071" w:rsidP="00436071">
+                          <w:pPr>
+                            <w:pStyle w:val="Sinespaciado" />
+                            <w:jc w:val="right" />
+                            <w:rPr>
+                              <w:rFonts w:ascii="HelveticaNeueLT Std Lt" w:hAnsi="HelveticaNeueLT Std Lt" />
+                              <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                              <w:sz w:val="16" />
+                              <w:szCs w:val="16" />
+                            </w:rPr>
+                          </w:pPr>
+                          <w:r w:rsidRPr="0034240E">
+                            <w:rPr>
+                              <w:rFonts w:ascii="HelveticaNeueLT Std Lt" w:hAnsi="HelveticaNeueLT Std Lt" />
+                              <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                              <w:sz w:val="16" />
+                              <w:szCs w:val="16" />
+                            </w:rPr>
+                            <w:t>TECNOLÓGICO DE ESTUDIOS SUPERIORES DE CHALCO</w:t>
+                          </w:r>
+                        </w:p>
+                      </w:txbxContent>
+                    </wps:txbx>
+                    <wps:bodyPr rot="0" spcFirstLastPara="0" vertOverflow="overflow" horzOverflow="overflow" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="t" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                      <a:prstTxWarp prst="textNoShape">
+                        <a:avLst />
+                      </a:prstTxWarp>
+                      <a:noAutofit />
+                    </wps:bodyPr>
+                  </wps:wsp>
+                </a:graphicData>
+              </a:graphic>
+              <wp14:sizeRelH relativeFrom="margin">
+                <wp14:pctWidth>0</wp14:pctWidth>
+              </wp14:sizeRelH>
+              <wp14:sizeRelV relativeFrom="page">
+                <wp14:pctHeight>0</wp14:pctHeight>
+              </wp14:sizeRelV>
+            </wp:anchor>
+          </w:drawing>
+        </mc:Choice>
+        <mc:Fallback>
+          <w:pict>
+            <v:shape w14:anchorId="23B10B1A" id="_x0000_s1027" type="#_x0000_t202" style="position:absolute;margin-left:240.75pt;margin-top:691.9pt;width:363.95pt;height:45pt;z-index:251656192;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:text;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:margin;mso-height-relative:page;v-text-anchor:top" o:gfxdata="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&#xA;AADmBQAAAAA=&#xA;" filled="f" stroked="f" strokeweight=".5pt">
+              <v:textbox>
+                <w:txbxContent>
+                  <w:p w14:paraId="60CB3D8D" w14:textId="77777777" w:rsidR="00436071" w:rsidRPr="0034240E" w:rsidRDefault="00436071" w:rsidP="00436071">
+                    <w:pPr>
+                      <w:pStyle w:val="Sinespaciado" />
+                      <w:jc w:val="right" />
+                      <w:rPr>
+                        <w:rFonts w:ascii="HelveticaNeueLT Std Med" w:hAnsi="HelveticaNeueLT Std Med" />
+                        <w:b />
+                        <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                        <w:sz w:val="16" />
+                        <w:szCs w:val="16" />
+                      </w:rPr>
+                    </w:pPr>
+                    <w:r w:rsidRPr="0034240E">
+                      <w:rPr>
+                        <w:rFonts w:ascii="HelveticaNeueLT Std Med" w:hAnsi="HelveticaNeueLT Std Med" />
+                        <w:b />
+                        <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                        <w:sz w:val="16" />
+                        <w:szCs w:val="16" />
+                      </w:rPr>
+                      <w:t>SECRETARÍA DE EDUCACIÓN</w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p w14:paraId="70054122" w14:textId="77777777" w:rsidR="00436071" w:rsidRPr="0034240E" w:rsidRDefault="00436071" w:rsidP="00436071">
+                    <w:pPr>
+                      <w:pStyle w:val="Sinespaciado" />
+                      <w:jc w:val="right" />
+                      <w:rPr>
+                        <w:rFonts w:ascii="HelveticaNeueLT Std Med" w:hAnsi="HelveticaNeueLT Std Med" />
+                        <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                        <w:sz w:val="16" />
+                        <w:szCs w:val="16" />
+                      </w:rPr>
+                    </w:pPr>
+                    <w:r w:rsidRPr="0034240E">
+                      <w:rPr>
+                        <w:rFonts w:ascii="HelveticaNeueLT Std Med" w:hAnsi="HelveticaNeueLT Std Med" />
+                        <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                        <w:sz w:val="16" />
+                        <w:szCs w:val="16" />
+                      </w:rPr>
+                      <w:t xml:space="preserve">SUBSECRETARÍA DE </w:t>
+                    </w:r>
+                    <w:proofErr w:type="gramStart" />
+                    <w:r w:rsidRPr="0034240E">
+                      <w:rPr>
+                        <w:rFonts w:ascii="HelveticaNeueLT Std Med" w:hAnsi="HelveticaNeueLT Std Med" />
+                        <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                        <w:sz w:val="16" />
+                        <w:szCs w:val="16" />
+                      </w:rPr>
+                      <w:t>EDUCACIÓN  SUPERIOR</w:t>
+                    </w:r>
+                    <w:proofErr w:type="gramEnd" />
+                    <w:r w:rsidRPr="0034240E">
+                      <w:rPr>
+                        <w:rFonts w:ascii="HelveticaNeueLT Std Med" w:hAnsi="HelveticaNeueLT Std Med" />
+                        <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                        <w:sz w:val="16" />
+                        <w:szCs w:val="16" />
+                      </w:rPr>
+                      <w:t xml:space="preserve"> Y NORMAL</w:t>
+                    </w:r>
+                  </w:p>
+                  <w:p w14:paraId="14A0994F" w14:textId="77777777" w:rsidR="00436071" w:rsidRPr="0034240E" w:rsidRDefault="00436071" w:rsidP="00436071">
+                    <w:pPr>
+                      <w:pStyle w:val="Sinespaciado" />
+                      <w:jc w:val="right" />
+                      <w:rPr>
+                        <w:rFonts w:ascii="HelveticaNeueLT Std Lt" w:hAnsi="HelveticaNeueLT Std Lt" />
+                        <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                        <w:sz w:val="16" />
+                        <w:szCs w:val="16" />
+                      </w:rPr>
+                    </w:pPr>
+                    <w:r w:rsidRPr="0034240E">
+                      <w:rPr>
+                        <w:rFonts w:ascii="HelveticaNeueLT Std Lt" w:hAnsi="HelveticaNeueLT Std Lt" />
+                        <w:color w:val="808080" w:themeColor="background1" w:themeShade="80" />
+                        <w:sz w:val="16" />
+                        <w:szCs w:val="16" />
+                      </w:rPr>
+                      <w:t>TECNOLÓGICO DE ESTUDIOS SUPERIORES DE CHALCO</w:t>
+                    </w:r>
+                  </w:p>
+                </w:txbxContent>
+              </v:textbox>
+            </v:shape>
+          </w:pict>
+        </mc:Fallback>
+      </mc:AlternateContent>
+    </w:r>
+    <w:r w:rsidR="00F7509C">
+      <w:rPr>
+        <w:rFonts w:ascii="Gotham Book" w:hAnsi="Gotham Book" />
+        <w:noProof />
+        <w:color w:val="FFFFFF" />
+        <w:sz w:val="14" />
+        <w:szCs w:val="14" />
+      </w:rPr>
+      <w:t>J</w:t>
+    </w:r>
+    <w:r w:rsidR="000E57A1" w:rsidRPr="000E57A1">
+      <w:rPr>
+        <w:b />
+        <w:sz w:val="18" />
+        <w:szCs w:val="18" />
+      </w:rPr>
+      <w:t xml:space="preserve"> </w:t>
+    </w:r>
+    <w:r w:rsidR="000E57A1" w:rsidRPr="002814DC">
+      <w:rPr>
+        <w:b />
+        <w:sz w:val="18" />
+        <w:szCs w:val="18" />
+      </w:rPr>
+      <w:t>Toda copia en Papel es un “Documento No Controlado” a excepción del original</w:t>
+    </w:r>
+  </w:p>
+  <w:p w14:paraId="0A4EC559" w14:textId="77777777" w:rsidR="000E57A1" w:rsidRPr="002814DC" w:rsidRDefault="000E57A1" w:rsidP="000E57A1">
+    <w:pPr>
+      <w:jc w:val="right" />
+      <w:rPr>
+        <w:b />
+        <w:bCs />
+        <w:color w:val="000000" w:themeColor="text1" />
+        <w:sz w:val="18" />
+        <w:szCs w:val="18" />
+      </w:rPr>
+    </w:pPr>
+    <w:r w:rsidRPr="002814DC">
+      <w:rPr>
+        <w:color w:val="000000" w:themeColor="text1" />
+        <w:sz w:val="18" />
+        <w:szCs w:val="18" />
+        <w:lang w:val="es-ES" />
+      </w:rPr>
+      <w:t xml:space="preserve">Página </w:t>
+    </w:r>
+    <w:r w:rsidRPr="002814DC">
+      <w:rPr>
+        <w:b />
+        <w:bCs />
+        <w:color w:val="000000" w:themeColor="text1" />
+        <w:sz w:val="18" />
+        <w:szCs w:val="18" />
+      </w:rPr>
+      <w:fldChar w:fldCharType="begin" />
+    </w:r>
+    <w:r w:rsidRPr="002814DC">
+      <w:rPr>
+        <w:b />
+        <w:bCs />
+        <w:color w:val="000000" w:themeColor="text1" />
+        <w:sz w:val="18" />
+        <w:szCs w:val="18" />
+      </w:rPr>
+      <w:instrText>PAGE  \* Arabic  \* MERGEFORMAT</w:instrText>
+    </w:r>
+    <w:r w:rsidRPr="002814DC">
+      <w:rPr>
+        <w:b />
+        <w:bCs />
+        <w:color w:val="000000" w:themeColor="text1" />
+        <w:sz w:val="18" />
+        <w:szCs w:val="18" />
+      </w:rPr>
+      <w:fldChar w:fldCharType="separate" />
+    </w:r>
+    <w:r>
+      <w:rPr>
+        <w:b />
+        <w:bCs />
+        <w:color w:val="000000" w:themeColor="text1" />
+        <w:sz w:val="18" />
+        <w:szCs w:val="18" />
+      </w:rPr>
+      <w:t>1</w:t>
+    </w:r>
+    <w:r w:rsidRPr="002814DC">
+      <w:rPr>
+        <w:b />
+        <w:bCs />
+        <w:color w:val="000000" w:themeColor="text1" />
+        <w:sz w:val="18" />
+        <w:szCs w:val="18" />
+      </w:rPr>
+      <w:fldChar w:fldCharType="end" />
+    </w:r>
+    <w:r w:rsidRPr="002814DC">
+      <w:rPr>
+        <w:color w:val="000000" w:themeColor="text1" />
+        <w:sz w:val="18" />
+        <w:szCs w:val="18" />
+        <w:lang w:val="es-ES" />
+      </w:rPr>
+      <w:t xml:space="preserve"> de </w:t>
+    </w:r>
+    <w:r w:rsidRPr="002814DC">
+      <w:rPr>
+        <w:b />
+        <w:bCs />
+        <w:color w:val="000000" w:themeColor="text1" />
+        <w:sz w:val="18" />
+        <w:szCs w:val="18" />
+      </w:rPr>
+      <w:fldChar w:fldCharType="begin" />
+    </w:r>
+    <w:r w:rsidRPr="002814DC">
+      <w:rPr>
+        <w:b />
+        <w:bCs />
+        <w:color w:val="000000" w:themeColor="text1" />
+        <w:sz w:val="18" />
+        <w:szCs w:val="18" />
+      </w:rPr>
+      <w:instrText>NUMPAGES  \* Arabic  \* MERGEFORMAT</w:instrText>
+    </w:r>
+    <w:r w:rsidRPr="002814DC">
+      <w:rPr>
+        <w:b />
+        <w:bCs />
+        <w:color w:val="000000" w:themeColor="text1" />
+        <w:sz w:val="18" />
+        <w:szCs w:val="18" />
+      </w:rPr>
+      <w:fldChar w:fldCharType="separate" />
+    </w:r>
+    <w:r>
+      <w:rPr>
+        <w:b />
+        <w:bCs />
+        <w:color w:val="000000" w:themeColor="text1" />
+        <w:sz w:val="18" />
+        <w:szCs w:val="18" />
+      </w:rPr>
+      <w:t>2</w:t>
+    </w:r>
+    <w:r w:rsidRPr="002814DC">
+      <w:rPr>
+        <w:b />
+        <w:bCs />
+        <w:color w:val="000000" w:themeColor="text1" />
+        <w:sz w:val="18" />
+        <w:szCs w:val="18" />
+      </w:rPr>
+      <w:fldChar w:fldCharType="end" />
+    </w:r>
+  </w:p>
+  <w:p w14:paraId="0AF595B7" w14:textId="77777777" w:rsidR="000E57A1" w:rsidRPr="002814DC" w:rsidRDefault="000E57A1" w:rsidP="000E57A1">
+    <w:pPr>
+      <w:jc w:val="center" />
+      <w:rPr>
+        <w:sz w:val="18" />
+        <w:szCs w:val="18" />
+        <w:lang w:val="es-ES_tradnl" />
+      </w:rPr>
+    </w:pPr>
+    <w:bookmarkStart w:id="0" w:name="_Hlk152592700" />
+    <w:bookmarkStart w:id="1" w:name="_Hlk152592701" />
+    <w:bookmarkStart w:id="2" w:name="_Hlk152592702" />
+    <w:bookmarkStart w:id="3" w:name="_Hlk152592703" />
+    <w:bookmarkStart w:id="4" w:name="_Hlk152771792" />
+    <w:bookmarkStart w:id="5" w:name="_Hlk152771793" />
+    <w:bookmarkStart w:id="6" w:name="_Hlk152773290" />
+    <w:bookmarkStart w:id="7" w:name="_Hlk152773291" />
+    <w:r w:rsidRPr="002814DC">
+      <w:rPr>
+        <w:sz w:val="18" />
+        <w:szCs w:val="18" />
+        <w:lang w:val="es-ES_tradnl" />
+      </w:rPr>
+      <w:t xml:space="preserve">Carretera Federal México-Cuautla s/n La Candelaria </w:t>
+    </w:r>
+    <w:proofErr w:type="spellStart" />
+    <w:r w:rsidRPr="002814DC">
+      <w:rPr>
+        <w:sz w:val="18" />
+        <w:szCs w:val="18" />
+        <w:lang w:val="es-ES_tradnl" />
+      </w:rPr>
+      <w:t>Tlapala</w:t>
+    </w:r>
+    <w:proofErr w:type="spellEnd" />
+    <w:r w:rsidRPr="002814DC">
+      <w:rPr>
+        <w:sz w:val="18" />
+        <w:szCs w:val="18" />
+        <w:lang w:val="es-ES_tradnl" />
+      </w:rPr>
+      <w:t xml:space="preserve"> C.P. 56641, Chalco, Estado de México.</w:t>
+    </w:r>
+  </w:p>
+  <w:p w14:paraId="0A7D51AB" w14:textId="77777777" w:rsidR="003E46C1" w:rsidRPr="000E57A1" w:rsidRDefault="000E57A1" w:rsidP="000E57A1">
+    <w:pPr>
+      <w:jc w:val="center" />
+      <w:rPr>
+        <w:b />
+        <w:sz w:val="18" />
+        <w:szCs w:val="18" />
+        <w:lang w:val="es-ES_tradnl" />
+      </w:rPr>
+    </w:pPr>
+    <w:r w:rsidRPr="002814DC">
+      <w:rPr>
+        <w:b />
+        <w:sz w:val="18" />
+        <w:szCs w:val="18" />
+        <w:lang w:val="es-ES_tradnl" />
+      </w:rPr>
+      <w:t xml:space="preserve">Tels.: 55 5982 10 88 y 55 5982 10 89 </w:t>
+    </w:r>
+    <w:bookmarkEnd w:id="0" />
+    <w:bookmarkEnd w:id="1" />
+    <w:bookmarkEnd w:id="2" />
+    <w:bookmarkEnd w:id="3" />
+    <w:r w:rsidRPr="002814DC">
+      <w:rPr>
+        <w:b />
+        <w:sz w:val="18" />
+        <w:szCs w:val="18" />
+        <w:lang w:val="es-ES_tradnl" />
+      </w:rPr>
+      <w:t>dir.general@tesch.edu.mx</w:t>
+    </w:r>
+    <w:bookmarkEnd w:id="4" />
+    <w:bookmarkEnd w:id="5" />
+    <w:bookmarkEnd w:id="6" />
+    <w:bookmarkEnd w:id="7" />
+  </w:p>
+</w:ftr>

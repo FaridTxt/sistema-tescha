@@ -1,0 +1,389 @@
+﻿
+Instrumentación didáctica 
+
+Periodo: 2026-2
+
+Nombre de la asignatura: GESTIÓN DE PROYECTOS DE SOFTWARE 
+Plan de estudios: INGENIERÍA EN SISTEMAS COMPUTACIONALES
+Clave de la asignatura: SCG-1009
+Horas teoría-Horas práctica-Créditos: 3-3-6
+
+1. Caracterización de la asignatura (1)
+
+La aportación que esta asignatura le da al perfil profesional es la siguiente:
+Implementa aplicaciones computacionales para solucionar problemas de diversos contextos, integrando diferentes tecnologías, plataformas o dispositivos
+Diseña e implementa interfaces para la automatización de sistemas de hardware y desarrollo del software asociado.
+Coordina y participa en equipos multidisciplinarios para la aplicación de soluciones innovadoras en diferentes contextos.
+Desarrolla y administra software para apoyar la productividad y competitividad de las organizaciones cumpliendo con estándares de calidad. 
+
+La asignatura de Gestión de proyectos de software proporciona al estudiante los conceptos que requiere y que debe contemplar para la gestión de un proyecto de software. Por otro lado, le da la posibilidad de poner en práctica dicha gestión, ya que se sugiere que, en esta asignatura, el estudiante desarrolle un proyecto de gestión de software para una organización, adquiriendo las competencias necesarias para estar al frente de dichos proyectos.
+
+La intención es que los estudiantes gestionen un proyecto de software de carácter multidisciplinario, a fin de trabajar las competencias genéricas que exige su formación profesional. 
+
+La asignatura de gestión de proyectos se relaciona con asignaturas previas como Taller de administración, Ingeniería de software, Taller y Administración de bases de datos; y es la base para asignaturas de octavo semestre en adelante.
+La aportación que esta asignatura le da al perfil profesional es la siguiente:
+Implementa aplicaciones computacionales para solucionar problemas de diversos contextos, integrando diferentes tecnologías, plataformas o dispositivos
+Diseña e implementa interfaces para la automatización de sistemas de hardware y desarrollo del software asociado.
+Coordina y participa en equipos multidisciplinarios para la aplicación de soluciones innovadoras en diferentes contextos.
+Desarrolla y administra software para apoyar la productividad y competitividad de las organizaciones cumpliendo con estándares de calidad. 
+
+La asignatura de Gestión de proyectos de software proporciona al estudiante los conceptos que requiere y que debe contemplar para la gestión de un proyecto de software. Por otro lado, le da la posibilidad de poner en práctica dicha gestión, ya que se sugiere que, en esta asignatura, el estudiante desarrolle un proyecto de gestión de software para una organización, adquiriendo las competencias necesarias para estar al frente de dichos proyectos.
+
+La intención es que los estudiantes gestionen un proyecto de software de carácter multidisciplinario, a fin de trabajar las competencias genéricas que exige su formación profesional. 
+
+La asignatura de gestión de proyectos se relaciona con asignaturas previas como Taller de administración, Ingeniería de software, Taller y Administración de bases de datos; y es la base para asignaturas de octavo semestre en adelante.
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Intención didáctica (2)
+
+Los contenidos de la asignatura de gestión de proyectos de software deben ser abordados de tal manera que cada tema esté dividido en dos partes, la primera parte del tema será para que el docente le presente al alumno los conceptos que la conforman, y la segunda parte deberá abarcar el diseño de la práctica a realizar. Por la naturaleza de los temas, el estudiante inicia el proyecto desde el tercer tema y se le dará seguimiento a lo largo de la asignatura.
+
+En el primer tema, se podrá conocer y comprender el entorno global para la gestión de proyectos.
+
+En el segundo tema, se conocerán los factores que más afectan la calidad del software, las normas, estándares y herramientas para mejorar la calidad del producto de software a desarrollar. 
+Los contenidos de la asignatura de gestión de proyectos de software deben ser abordados de tal manera que cada tema esté dividido en dos partes, la primera parte del tema será para que el docente le presente al alumno los conceptos que la conforman, y la segunda parte deberá abarcar el diseño de la práctica a realizar. Por la naturaleza de los temas, el estudiante inicia el proyecto desde el tercer tema y se le dará seguimiento a lo largo de la asignatura.
+
+En el primer tema, se podrá conocer y comprender el entorno global para la gestión de proyectos.
+
+En el segundo tema, se conocerán los factores que más afectan la calidad del software, las normas, estándares y herramientas para mejorar la calidad del producto de software a desarrollar. 
+
+
+
+
+
+
+
+En el tercer tema el estudiante podrá comenzar a planificar un proyectos que solucione una problemática real iniciando con la determinación de objetivos, el análisis costo beneficio, análisis y recuperación de riesgos, todo esto con la finalidad de determinar la viabilidad del proyecto propuesto.
+
+En el cuarto tema, conocerá la forma en que se debe presentar la propuesta del plan del proyecto. 
+
+En el quinto tema, se proporcionará al alumno los conocimientos de administración de recursos, tiempo y de cómo llevar a cabo el seguimiento del desarrollo del proyecto.
+
+De tal manera que al finalizar la asignatura el estudiante debe de realizar una presentación en la empresa que describa los resultados de la gestión del proyecto.
+
+Se sugiere que el docente, presente al estudiante ejemplos reales de gestión de software para que el estudiante tenga una visión clara de la actividad que debe de realizar.
+
+El estudiante debe:
+Verificar una propuesta de solución a la problemática detectada.
+Llevar a cabo la gestión de un proyecto de software elegido por los equipos de trabajo, para lo cual es necesario:
+Integrar y justificar un equipo de desarrollo acorde a la metodología. seleccionada para el desarrollo del proyecto de software.
+Presentar durante el semestre avances.
+Exponer al final del semestre los resultados.
+En el tercer tema el estudiante podrá comenzar a planificar un proyectos que solucione una problemática real iniciando con la determinación de objetivos, el análisis costo beneficio, análisis y recuperación de riesgos, todo esto con la finalidad de determinar la viabilidad del proyecto propuesto.
+
+En el cuarto tema, conocerá la forma en que se debe presentar la propuesta del plan del proyecto. 
+
+En el quinto tema, se proporcionará al alumno los conocimientos de administración de recursos, tiempo y de cómo llevar a cabo el seguimiento del desarrollo del proyecto.
+
+De tal manera que al finalizar la asignatura el estudiante debe de realizar una presentación en la empresa que describa los resultados de la gestión del proyecto.
+
+Se sugiere que el docente, presente al estudiante ejemplos reales de gestión de software para que el estudiante tenga una visión clara de la actividad que debe de realizar.
+
+El estudiante debe:
+Verificar una propuesta de solución a la problemática detectada.
+Llevar a cabo la gestión de un proyecto de software elegido por los equipos de trabajo, para lo cual es necesario:
+Integrar y justificar un equipo de desarrollo acorde a la metodología. seleccionada para el desarrollo del proyecto de software.
+Presentar durante el semestre avances.
+Exponer al final del semestre los resultados.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Competencia de la asignatura (3)
+
+Aplica metodologías e instrumentos, para garantizar la gestión adecuada de un proyecto de software.
+Aplica metodologías e instrumentos, para garantizar la gestión adecuada de un proyecto de software.
+
+
+4. Análisis por competencias especificas
+
+Conoce y comprende el entorno de la gestión de proyectos.
+Conoce y comprende el entorno de la gestión de proyectos.
+Competencia No. 1								Descripción: 
+
+[TABLA]
+Temas y Subtemas para desarrollar la competencia especifica | Actividades de aprendizaje | Actividades de enseñanza | Desarrollo de competencias genéricas | Horas teórico-prácticas
+1.1. Conceptos básicos para la gestión de proyectos. 1.2. Fases de la gestión de proyectos. 1.2.1. Planificación de proyectos. 1.2.2. Propuesta. 1.2.3. Selección y Evaluación de personal. 1.2.4. Supervisión y Revisión del proyecto. 1.2.5. Informes. 1.3 Fundamentos de Project Management Institute. | Gestiona información sobre la terminología de la gestión de proyectos de software y plasma los resultados en un glosario.  Gestiona información, en equipo, sobre los subtemas del temario y plasma sus resultados en una presentación que expone en plenaria.  Gestiona información sobre las funciones principales del Project Management Institute y plasma sus resultados en un cuadro sinóptico. | Presentación de los objetivos, competencias y alcance de la asignatura.  Recuperación de conocimientos previos sobre desarrollo e ingeniería de software.  Exposición dialogada de la gestión de proyectos.  Análisis comparativo de metodologías tradicionales y ágiles.  Modelado guiado de la estructura de desglose del trabajo.  Demostración del uso de herramientas para planificación (cronogramas y diagramas de Gantt).  Ejemplificación del cálculo de estimaciones de tiempo y costos | Capacidad de análisis y síntesis.  Habilidades interpersonales.  Habilidad para buscar y analizar información proveniente de fuentes diversas  Comunicación oral y escrita | 6 HT 6 HP
+[/TABLA]
+
+
+
+
+
+[TABLA]
+Indicadores de alcance (4.8) | Valor del indicador (4.9)
+A) Se adapta a situaciones y contextos complejos. | 5
+B) Hace aportaciones a las actividades académicas desarrolladas. | 5
+C)  Propone y/o explica soluciones o procedimientos no vistos en clase (creatividad). | 5
+D) Introduce recursos y experiencias que promueven un pensamiento crítico. | 5
+E) Incorpora conocimientos y actividades interdisciplinarias en su aprendizaje. | 2
+F) Realiza su trabajo de manera autónoma y autorregulada. | 8
+[/TABLA]
+
+
+Niveles de desempeño (4.10)
+
+[TABLA]
+Desempeño | Nivel de desempeño | Indicadores de alcance | Valoración numérica
+Competencia alcanzada | Excelente | Cumple al menos cinco de los siguientes indicadores A) Se adapta a situaciones y contextos complejos. Puede trabajar en equipo, reflejar sus conocimientos en la interpretación de la realidad. Inferir comportamientos o consecuencias de los fenómenos o problemas en estudio. Incluir más variables en dichos casos de estudio.  B) Hace aportaciones a las actividades académicas desarrolladas. Pregunta integrando conocimientos de otras asignaturas o de casos anteriores de la misma asignatura. Presenta otros puntos de vista que complementan al presentado en la clase. Presenta fuentes de información adicionales (Internet, documentales), usa más bibliografía, consulta fuentes en un segundo idioma, etc.  C)  Propone y/o explica soluciones o procedimientos no vistos en clase (creatividad). Ante problemas o casos de estudio propone perspectivas diferentes, para abordarlos y sustentarlos correctamente. Aplica procedimientos aprendidos en otra asignatura o contexto para el problema que se está resolviendo.  D) Introduce recursos y experiencias que promueven un pensamiento crítico; (por ejemplo, el uso de las tecnologías de la información estableciendo previamente un criterio). Ante temas de una asignatura, introduce cuestionamientos de tipo ético, ecológico, histórico, político, económico, etc.; que deben tomarse en cuenta para comprender mejor, o a futuro dicho tema. Se apoya en foros, autores, bibliografía, documentales, etc. para sustentar su punto de vista.  E) Incorpora conocimientos y actividades interdisciplinarias en su aprendizaje. En el desarrollo de los temas de la asignatura, incorpora conocimientos y actividades desarrollados en otras asignaturas para lograr la competencia.  F) Realiza su trabajo de manera autónoma y autorregulada. Es capaz de organizar su tiempo y trabajar sin necesidad de una supervisión estrecha y/o coercitiva. Aprovecha la planeación de la asignatura presentada por el (la) profesor(a) (instrumentación didáctica) para presentar propuestas de mejora de la temática vista durante el curso. Realiza actividades de investigación para participar activamente durante el curso. | 95-100
+ | Notable | Cumple 4 de los indicadores definidos en desempeño excelente. | 85-94
+ | Bueno | Cumple 3 de los indicadores definidos en desempeño excelente. | 75-84
+ | Suficiente | Cumple 2 de los indicadores definidos en desempeño excelente. | 70-74
+Competencia no alcanzada | Insuficiente | No se cumple con el 100% de evidencias conceptuales, procedimentales y actitudinales de los indicadores definidos en el desempeño excelente. | NA (no alcanzada)
+[/TABLA]
+
+Matriz de evaluación (4.11)
+
+[TABLA]
+Evidencia de aprendizaje | % | Indicador | Evaluación formativa de la competencia
+ |  | A | B | C | D | E | F | 
+Proyecto Integrador y defensa | 40 | 2 | 2 | 2 | 2 | 2 | 2 | Rubrica
+Actividades en clase, Estudios de caso, Tareas, Investigaciones. | 30 | 3 | 0 | 0 | 3 | 0 | 3 | Lista de cotejo
+Evaluación Escrita | 30 | 0 | 3 | 3 | 0 | 0 | 3 | Cuestionario
+TOTAL | 100 | 5 | 5 | 5 | 5 | 2 | 8 | 
+[/TABLA]
+
+
+Identifica y selecciona estándares y métricas de calidad para ser aplicados a un proyecto de software.
+Identifica y selecciona estándares y métricas de calidad para ser aplicados a un proyecto de software.
+Competencia No. 2								Descripción: 
+
+[TABLA]
+Temas y Subtemas para desarrollar la competencia especifica | Actividades de aprendizaje | Actividades de enseñanza | Desarrollo de competencias genéricas | Horas teórico-prácticas
+2.1 Plan de calidad del software. 2.2 La gestión de proyectos usando un marco de calidad. 2.3 Estándares y Métricas de calidad en la ingeniería de software. 2.3.1 CMMI. 2.3.2 MoProSoft. 2.4 Impacto de la calidad en tiempo, costo y alcance del proyecto. 2.5 Control del cambio. | Gestiona información sobre los requerimientos de un proyecto para su implantación en un entorno de calidad.   Gestiona información de al menos tres herramientas para la estimación de proyectos de software, plasma sus resultados en un cuadro comparativo.  Plantea 3 métricas y los indicadores que se podrían utilizar para evaluar la calidad de un proyecto de software, plasma sus resultados en un reporte.  Representa los enfoques CMMI y MoProSoft utilizando un mapa mental. | Recuperación de conocimientos previos sobre desarrollo e ingeniería de software.  Exposición dialogada de la gestión de proyectos.  Análisis comparativo de metodologías tradicionales y ágiles.  Modelado guiado de la estructura de desglose del trabajo.  Demostración del uso de herramientas para planificación (cronogramas y diagramas de Gantt).  Ejemplificación del cálculo de estimaciones de tiempo y costos | Capacidad de análisis y síntesis.  Habilidades interpersonales. Habilidad para buscar y analizar información proveniente de fuentes diversas  Comunicación oral y escrita  Creatividad | 6 HT  6 HP
+[/TABLA]
+
+
+[TABLA]
+Indicadores de alcance (4.8) | Valor del indicador (4.9)
+A) Se adapta a situaciones y contextos complejos. | 5
+B) Hace aportaciones a las actividades académicas desarrolladas. | 5
+C)  Propone y/o explica soluciones o procedimientos no vistos en clase (creatividad). | 5
+D) Introduce recursos y experiencias que promueven un pensamiento crítico. | 5
+E) Incorpora conocimientos y actividades interdisciplinarias en su aprendizaje. | 2
+F) Realiza su trabajo de manera autónoma y autorregulada. | 8
+[/TABLA]
+
+
+Niveles de desempeño (4.10)
+
+[TABLA]
+Desempeño | Nivel de desempeño | Indicadores de alcance | Valoración numérica
+Competencia alcanzada | Excelente | Cumple al menos cinco de los siguientes indicadores A) Se adapta a situaciones y contextos complejos. Puede trabajar en equipo, reflejar sus conocimientos en la interpretación de la realidad. Inferir comportamientos o consecuencias de los fenómenos o problemas en estudio. Incluir más variables en dichos casos de estudio.  B) Hace aportaciones a las actividades académicas desarrolladas. Pregunta integrando conocimientos de otras asignaturas o de casos anteriores de la misma asignatura. Presenta otros puntos de vista que complementan al presentado en la clase. Presenta fuentes de información adicionales (Internet, documentales), usa más bibliografía, consulta fuentes en un segundo idioma, etc.  C)  Propone y/o explica soluciones o procedimientos no vistos en clase (creatividad). Ante problemas o casos de estudio propone perspectivas diferentes, para abordarlos y sustentarlos correctamente. Aplica procedimientos aprendidos en otra asignatura o contexto para el problema que se está resolviendo.  D) Introduce recursos y experiencias que promueven un pensamiento crítico; (por ejemplo, el uso de las tecnologías de la información estableciendo previamente un criterio). Ante temas de una asignatura, introduce cuestionamientos de tipo ético, ecológico, histórico, político, económico, etc.; que deben tomarse en cuenta para comprender mejor, o a futuro dicho tema. Se apoya en foros, autores, bibliografía, documentales, etc. para sustentar su punto de vista.  E) Incorpora conocimientos y actividades interdisciplinarias en su aprendizaje. En el desarrollo de los temas de la asignatura, incorpora conocimientos y actividades desarrollados en otras asignaturas para lograr la competencia.   F) Realiza su trabajo de manera autónoma y autorregulada. Es capaz de organizar su tiempo y trabajar sin necesidad de una supervisión estrecha y/o coercitiva. Aprovecha la planeación de la asignatura presentada por el (la) profesor(a) (instrumentación didáctica) para presentar propuestas de mejora de la temática vista durante el curso. Realiza actividades de investigación para participar activamente durante el curso. | 95-100
+ | Notable | Cumple 4 de los indicadores definidos en desempeño excelente. | 85-94
+ | Bueno | Cumple 3 de los indicadores definidos en desempeño excelente. | 75-84
+ | Suficiente | Cumple 2 de los indicadores definidos en desempeño excelente. | 70-74
+Competencia no alcanzada | Insuficiente | No se cumple con el 100% de evidencias conceptuales, procedimentales y actitudinales de los indicadores definidos en el desempeño excelente. | NA (no alcanzada)
+[/TABLA]
+
+
+Matriz de evaluación (4.11)
+
+[TABLA]
+Evidencia de aprendizaje | % | Indicador | Evaluación formativa de la competencia
+ |  | A | B | C | D | E | F | 
+Proyecto Integrador y defensa | 40 | 2 | 2 | 2 | 2 | 2 | 2 | Rubrica
+Actividades en clase, Estudios de caso, Tareas, Investigaciones. | 30 | 3 | 0 | 0 | 3 | 0 | 3 | Lista de cotejo
+Evaluación Escrita | 30 | 0 | 3 | 3 | 0 | 0 | 3 | Cuestionario
+TOTAL | 100 | 5 | 5 | 5 | 5 | 2 | 8 | 
+[/TABLA]
+
+
+Planifica un proyecto de software utilizando una metodología de trabajo para determinar su viabilidad.
+Planifica un proyecto de software utilizando una metodología de trabajo para determinar su viabilidad.
+Competencia No. 3							Descripción: 
+
+[TABLA]
+Temas y Subtemas para desarrollar la competencia especifica | Actividades de aprendizaje | Actividades de enseñanza | Desarrollo de competencias genéricas | Horas teórico-prácticas
+3.1 Objetivo del proyecto. 3.2 Estimaciones de tiempo. 3.3 Estimaciones de costos. 3.4 Estimación de personal requerido. 3.5 Análisis de riesgos. 3.5.1 Tipos de riesgos. 3.5.2 Identificación, Impacto y proyección del riesgo. 3.5.3 Evaluación del riesgo. 3.5.4 Estrategias frente al riesgo. 3.6 Análisis de la viabilidad del proyecto. | Selecciona un proyecto de software, en equipo.  Planifica un proyecto de software, elaborando un reporte técnico que considere: Objetivo, Tiempos, Costos, Personal requerido con perfil y descripción de puesto, riesgos, costo beneficio y viabilidad del proyecto. | Recuperación de conocimientos previos sobre desarrollo e ingeniería de software.  Exposición dialogada de la gestión de proyectos.  Análisis comparativo de metodologías tradicionales y ágiles.  Modelado guiado de la estructura de desglose del trabajo.  Demostración del uso de herramientas para planificación (cronogramas y diagramas de Gantt).  Ejemplificación del cálculo de estimaciones de tiempo y costos | Capacidad de organizar y planificar.  Resolución de problemas.  Toma de decisiones.  Trabajo en equipo. Habilidades interpersonales.  Capacidad de trabajar en un equipo interdisciplinar.  Capacidad de aplicar los conocimientos en la práctica.  Diseño y gestión de proyectos.  Iniciativa y espíritu emprendedor. | 9 HT  9 HP
+[/TABLA]
+
+
+[TABLA]
+Indicadores de alcance (4.8) | Valor del indicador (4.9)
+A) Se adapta a situaciones y contextos complejos. | 5
+B) Hace aportaciones a las actividades académicas desarrolladas. | 5
+C)  Propone y/o explica soluciones o procedimientos no vistos en clase (creatividad). | 5
+D) Introduce recursos y experiencias que promueven un pensamiento crítico. | 5
+E) Incorpora conocimientos y actividades interdisciplinarias en su aprendizaje. | 2
+F) Realiza su trabajo de manera autónoma y autorregulada. | 8
+[/TABLA]
+
+
+Niveles de desempeño (4.10)
+
+[TABLA]
+Desempeño | Nivel de desempeño | Indicadores de alcance | Valoración numérica
+Competencia alcanzada | Excelente | Cumple al menos cinco de los siguientes indicadores A) Se adapta a situaciones y contextos complejos. Puede trabajar en equipo, reflejar sus conocimientos en la interpretación de la realidad. Inferir comportamientos o consecuencias de los fenómenos o problemas en estudio. Incluir más variables en dichos casos de estudio.  B) Hace aportaciones a las actividades académicas desarrolladas. Pregunta integrando conocimientos de otras asignaturas o de casos anteriores de la misma asignatura. Presenta otros puntos de vista que complementan al presentado en la clase. Presenta fuentes de información adicionales (Internet, documentales), usa más bibliografía, consulta fuentes en un segundo idioma, etc.  C)  Propone y/o explica soluciones o procedimientos no vistos en clase (creatividad). Ante problemas o casos de estudio propone perspectivas diferentes, para abordarlos y sustentarlos correctamente. Aplica procedimientos aprendidos en otra asignatura o contexto para el problema que se está resolviendo.  D) Introduce recursos y experiencias que promueven un pensamiento crítico; (por ejemplo, el uso de las tecnologías de la información estableciendo previamente un criterio). Ante temas de una asignatura, introduce cuestionamientos de tipo ético, ecológico, histórico, político, económico, etc.; que deben tomarse en cuenta para comprender mejor, o a futuro dicho tema. Se apoya en foros, autores, bibliografía, documentales, etc. Para sustentar su punto de vista.  E) Incorpora conocimientos y actividades interdisciplinarias en su aprendizaje. En el desarrollo de los temas de la asignatura, incorpora conocimientos y actividades desarrollados en otras asignaturas para lograr la competencia.   F) Realiza su trabajo de manera autónoma y autorregulada. Es capaz de organizar su tiempo y trabajar sin necesidad de una supervisión estrecha y/o coercitiva. Aprovecha la planeación de la asignatura presentada por el (la) profesor(a) (instrumentación didáctica) para presentar propuestas de mejora de la temática vista durante el curso. Realiza actividades de investigación para participar activamente durante el curso. | 95-100
+ | Notable | Cumple 4 de los indicadores definidos en desempeño excelente. | 85-94
+ | Bueno | Cumple 3 de los indicadores definidos en desempeño excelente. | 75-84
+ | Suficiente | Cumple 2 de los indicadores definidos en desempeño excelente. | 70-74
+Competencia no alcanzada | Insuficiente | No se cumple con el 100% de evidencias conceptuales, procedimentales y actitudinales de los indicadores definidos en el desempeño excelente. | NA (no alcanzada)
+[/TABLA]
+
+
+Matriz de evaluación (4.11)
+
+[TABLA]
+Evidencia de aprendizaje | % | Indicador | Evaluación formativa de la competencia
+ |  | A | B | C | D | E | F | 
+Proyecto Integrador y defensa | 40 | 2 | 2 | 2 | 2 | 2 | 2 | Rubrica
+Actividades en clase, Estudios de caso, Tareas, Investigaciones. | 30 | 3 | 0 | 0 | 3 | 0 | 3 | Lista de cotejo
+Evaluación Escrita | 30 | 0 | 3 | 3 | 0 | 0 | 3 | Cuestionario
+TOTAL | 100 | 5 | 5 | 5 | 5 | 2 | 8 | 
+[/TABLA]
+
+
+Identifica y selecciona propuestas de proyecto de software para la presentación de un contrato al cliente.
+Identifica y selecciona propuestas de proyecto de software para la presentación de un contrato al cliente.
+Competencia No. 4							Descripción: 
+
+[TABLA]
+Temas y Subtemas para desarrollar la competencia especifica | Actividades de aprendizaje | Actividades de enseñanza | Desarrollo de competencias genéricas | Horas teórico-prácticas
+4.1. Propuesta. 4.1.1. Justificación del proyecto. 4.1.2. Calendario de actividades. 4.1.3. Personal involucrado. 4.1.4. Políticas de comunicación y seguimiento. 4.2. Lineamientos de comunicación y seguimiento. 4.2.1. Formatos. 4.2.2. Herramientas. 4.3. Contrato. | Elabora la propuesta del proyecto de desarrollo de software apoyándose en una herramienta CASE y cumpliendo con los lineamientos establecidos, y la plasma en un reporte de proyecto y en una presentación. | Recuperación de conocimientos previos sobre desarrollo e ingeniería de software.  Exposición dialogada de la gestión de proyectos.  Análisis comparativo de metodologías tradicionales y ágiles. Modelado guiado de la estructura de desglose del trabajo. | Capacidad de organizar y planificar.  Resolución de problemas.  Toma de decisiones.  Trabajo en equipo.  Habilidades interpersonales. | 6 HT  6 HP
+[/TABLA]
+
+
+[TABLA]
+Indicadores de alcance (4.8) | Valor del indicador (4.9)
+A) Se adapta a situaciones y contextos complejos. | 5
+B) Hace aportaciones a las actividades académicas desarrolladas. | 5
+C)  Propone y/o explica soluciones o procedimientos no vistos en clase (creatividad). | 5
+D) Introduce recursos y experiencias que promueven un pensamiento crítico. | 5
+E) Incorpora conocimientos y actividades interdisciplinarias en su aprendizaje. | 2
+F) Realiza su trabajo de manera autónoma y autorregulada. | 8
+[/TABLA]
+
+
+Niveles de desempeño (4.10)
+
+[TABLA]
+Desempeño | Nivel de desempeño | Indicadores de alcance | Valoración numérica
+Competencia alcanzada | Excelente | Cumple al menos cinco de los siguientes indicadores A) Se adapta a situaciones y contextos complejos. Puede trabajar en equipo, reflejar sus conocimientos en la interpretación de la realidad. Inferir comportamientos o consecuencias de los fenómenos o problemas en estudio. Incluir más variables en dichos casos de estudio.  B) Hace aportaciones a las actividades académicas desarrolladas. Pregunta integrando conocimientos de otras asignaturas o de casos anteriores de la misma asignatura. Presenta otros puntos de vista que complementan al presentado en la clase. Presenta fuentes de información adicionales (Internet, documentales), usa más bibliografía, consulta fuentes en un segundo idioma, etc.  C)  Propone y/o explica soluciones o procedimientos no vistos en clase (creatividad). Ante problemas o casos de estudio propone perspectivas diferentes, para abordarlos y sustentarlos correctamente. Aplica procedimientos aprendidos en otra asignatura o contexto para el problema que se está resolviendo.  D) Introduce recursos y experiencias que promueven un pensamiento crítico; (por ejemplo, el uso de las tecnologías de la información estableciendo previamente un criterio). Ante temas de una asignatura, introduce cuestionamientos de tipo ético, ecológico, histórico, político, económico, etc.; que deben tomarse en cuenta para comprender mejor, o a futuro dicho tema. Se apoya en foros, autores, bibliografía, documentales, etc. para sustentar su punto de vista.  E) Incorpora conocimientos y actividades interdisciplinarias en su aprendizaje. En el desarrollo de los temas de la asignatura, incorpora conocimientos y actividades desarrollados en otras asignaturas para lograr la competencia.   F) Realiza su trabajo de manera autónoma y autorregulada. Es capaz de organizar su tiempo y trabajar sin necesidad de una supervisión estrecha y/o coercitiva. Aprovecha la planeación de la asignatura presentada por el (la) profesor(a) (instrumentación didáctica) para presentar propuestas de mejora de la temática vista durante el curso. Realiza actividades de investigación para participar activamente durante el curso. | 95-100
+ | Notable | Cumple 4 de los indicadores definidos en desempeño excelente. | 85-94
+ | Bueno | Cumple 3 de los indicadores definidos en desempeño excelente. | 75-84
+ | Suficiente | Cumple 2 de los indicadores definidos en desempeño excelente. | 70-74
+Competencia no alcanzada | Insuficiente | No se cumple con el 100% de evidencias conceptuales, procedimentales y actitudinales de los indicadores definidos en el desempeño excelente. | NA (no alcanzada)
+[/TABLA]
+
+
+Matriz de evaluación (4.11)
+
+[TABLA]
+Evidencia de aprendizaje | % | Indicador | Evaluación formativa de la competencia
+ |  | A | B | C | D | E | F | 
+Proyecto Integrador  y defensa | 40 | 2 | 2 | 2 | 2 | 2 | 2 | Rubrica
+Actividades en clase, Estudios de caso, Tareas, Investigaciones. | 30 | 3 | 0 | 0 | 3 | 0 | 3 | Lista de cotejo
+Evaluación Escrita | 30 | 0 | 3 | 3 | 0 | 0 | 3 | Cuestionario
+TOTAL | 100 | 5 | 5 | 5 | 5 | 2 | 8 | 
+[/TABLA]
+
+
+Aplica políticas de comunicación y seguimiento para la mejora del proyecto de software.
+Aplica políticas de comunicación y seguimiento para la mejora del proyecto de software.
+Competencia No. 5							Descripción: 
+
+[TABLA]
+Temas y Subtemas para desarrollar la competencia especifica | Actividades de aprendizaje | Actividades de enseñanza | Desarrollo de competencias genéricas | Horas teórico-prácticas
+4.1. Propuesta. 4.1.1. Justificación del proyecto. 4.1.2. Calendario de actividades. 4.1.3. Personal involucrado. 4.1.4. Políticas de comunicación y seguimiento. 4.2. Lineamientos de comunicación y seguimiento. 4.2.1. Formatos. 4.2.2. Herramientas. 4.3. Contrato. | Gestiona información sobre las diferentes herramientas que se utilizan para la administración y seguimiento de un proyecto y los plasma en un resumen.  Aplica una herramienta para la administración y seguimiento del proyecto y conserva el archivo electrónico de seguimiento como evidencia. | Recuperación de conocimientos previos sobre desarrollo e ingeniería de software.  Exposición dialogada de la gestión de proyectos.  Análisis comparativo de metodologías tradicionales y ágiles.  Modelado guiado de la estructura de desglose del trabajo. | Capacidad de organizar y planificar. Resolución de problemas.   Toma de decisiones.  Trabajo en equipo.  Habilidades interpersonales.  Capacidad de trabajar en un equipo interdisciplinar.  Capacidad de aplicar los conocimientos en la práctica.   Diseño y gestión de proyectos.  Iniciativa y espíritu emprendedor. | 9 HT  9 HP
+[/TABLA]
+
+
+[TABLA]
+Indicadores de alcance (4.8) | Valor del indicador (4.9)
+A) Se adapta a situaciones y contextos complejos. | 5
+B) Hace aportaciones a las actividades académicas desarrolladas. | 5
+C)  Propone y/o explica soluciones o procedimientos no vistos en clase (creatividad). | 5
+D) Introduce recursos y experiencias que promueven un pensamiento crítico. | 5
+E) Incorpora conocimientos y actividades interdisciplinarias en su aprendizaje. | 2
+F) Realiza su trabajo de manera autónoma y autorregulada. | 8
+[/TABLA]
+
+
+Niveles de desempeño (4.10)
+
+[TABLA]
+Desempeño | Nivel de desempeño | Indicadores de alcance | Valoración numérica
+Competencia alcanzada | Excelente | Cumple al menos cinco de los siguientes indicadores A) Se adapta a situaciones y contextos complejos. Puede trabajar en equipo, reflejar sus conocimientos en la interpretación de la realidad. Inferir comportamientos o consecuencias de los fenómenos o problemas en estudio. Incluir más variables en dichos casos de estudio.  B) Hace aportaciones a las actividades académicas desarrolladas. Pregunta integrando conocimientos de otras asignaturas o de casos anteriores de la misma asignatura. Presenta otros puntos de vista que complementan al presentado en la clase. Presenta fuentes de información adicionales (Internet, documentales), usa más bibliografía, consulta fuentes en un segundo idioma, etc.  C)  Propone y/o explica soluciones o procedimientos no vistos en clase (creatividad). Ante problemas o casos de estudio propone perspectivas diferentes, para abordarlos y sustentarlos correctamente. Aplica procedimientos aprendidos en otra asignatura o contexto para el problema que se está resolviendo.  D) Introduce recursos y experiencias que promueven un pensamiento crítico; (por ejemplo, el uso de las tecnologías de la información estableciendo previamente un criterio). Ante temas de una asignatura, introduce cuestionamientos de tipo ético, ecológico, histórico, político, económico, etc.; que deben tomarse en cuenta para comprender mejor, o a futuro dicho tema. Se apoya en foros, autores, bibliografía, documentales, etc. para sustentar su punto de vista.  E) Incorpora conocimientos y actividades interdisciplinarias en su aprendizaje. En el desarrollo de los temas de la asignatura, incorpora conocimientos y actividades desarrollados en otras asignaturas para lograr la competencia.   F) Realiza su trabajo de manera autónoma y autorregulada. Es capaz de organizar su tiempo y trabajar sin necesidad de una supervisión estrecha y/o coercitiva. Aprovecha la planeación de la asignatura presentada por el (la) profesor(a) (instrumentación didáctica) para presentar propuestas de mejora de la temática vista durante el curso. Realiza actividades de investigación para participar activamente durante el curso. | 95-100
+ | Notable | Cumple 4 de los indicadores definidos en desempeño excelente. | 85-94
+ | Bueno | Cumple 3 de los indicadores definidos en desempeño excelente. | 75-84
+ | Suficiente | Cumple 2 de los indicadores definidos en desempeño excelente. | 70-74
+Competencia no alcanzada | Insuficiente | No se cumple con el 100% de evidencias conceptuales, procedimentales y actitudinales de los indicadores definidos en el desempeño excelente. | NA (no alcanzada)
+[/TABLA]
+
+
+Matriz de evaluación (4.11)
+
+[TABLA]
+Evidencia de aprendizaje | % | Indicador | Evaluación formativa de la competencia
+ |  | A | B | C | D | E | F | 
+Proyecto Integrador y defensa | 100 | 2 | 2 | 2 | 2 | 2 | 2 | Rubrica
+TOTAL | 100 | 5 | 5 | 5 | 5 | 2 | 8 | 
+[/TABLA]
+
+
+Nota: este apartado número 4 de la instrumentación didáctica para la formación y desarrollo de competencias profesionales se repite, de acuerdo al número de competencias específicas de los temas de asignatura.
+
+5. Fuentes de información y apoyos didácticos 
+
+Fuentes de información:							Apoyos didácticos:
+[TABLA]
+Pressman, R. S., & Maxim, B. R. (2020). Ingeniería del software: Un enfoque práctico (8.ª ed.). McGraw-Hill Interamericana. Sommerville, I. (2011). Ingeniería de software (9.ª ed.). Pearson Educación. Pfleeger, S. L., & Atlee, J. M. (2010). Ingeniería de software: Teoría y práctica (4.ª ed.). Pearson Educación. Kendall, K. E., & Kendall, J. E. (2011). Análisis y diseño de sistemas (8.ª ed.). Pearson Educación. Sánchez, J., Sicilia, M. A., & Rodríguez, D. (2012). Ingeniería del software: Modelos, métodos y herramientas. RA-MA Editorial. | Videos en Youtube. Presentaciones digitales elaboradas por el docente. Ejercicios propuestos y resueltos. Software de desarrollo (IDE) acorde al lenguaje de programación utilizado. Bibliografía básica y complementaria actualizada. Bibliotecas Digitales.
+[/TABLA]
+
+
+
+6. Calendarización de evaluación en semanas: (6)
+
+[TABLA]
+Semana | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22
+TP | ED | EF1 | EF1 | EF2 | EF2 | ES1 | ES2 | EF3 | EF3 | EF3 | EF4 | EF4 | ES4 | ES3 | EF5 | EF5 | EF5 | ES5 | 2DA OP. | 2DA OP. |  | FIN
+TR | ED |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+SD |  |  |  |  |  | SD1 |  |  |  |  |  |  | SD2 |  |  |  |  |  |  |  |  | SD3
+[/TABLA]
+
+
+[TABLA]
+TP= tiempo planeado | TR = tiempo real | SD = seguimiento departamental
+ED = Evaluación Diagnóstica | EFn = Evaluación Formativa (competencia especifica n) | ES = Evaluación Sumativa
+[/TABLA]
+
+
+
+Fecha de elaboración: Agosto de 2026
+
+
+
+
+[TABLA]
+Fabiola García Gutiérrez |  | Dra. Fabiola Orquídea Sánchez Hernández
+Nombre y firma del (de la) profesor(a) |  | Nombre y firma del (de la) jefe(a) de división
+[/TABLA]
+
+
+
